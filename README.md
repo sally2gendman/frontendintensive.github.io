@@ -1,2 +1,2 @@
-# My Portfolio
-A showcase of my work at Bloc.
+# A Portfolio
+Created a mock portfolio site utilizing MDL
